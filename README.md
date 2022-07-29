@@ -1,1 +1,1 @@
-<p align="center"><img src="public/img/apphero.svg" width="400"></p>
+<p align="center"><img src="./img/apphero.svg" width="400"></p>
